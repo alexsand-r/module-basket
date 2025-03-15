@@ -4,6 +4,8 @@
  
 </p>
 
+🔗 Live Demo:  [Your GitHub Pages Link](https://alexsand-r.github.io/module-basket/))
+
 This project was created using **Vite** and implements a simple page for working with a shopping cart. The page allows users to view products, add them to the cart, modify quantities, and filter products by name.
 
 ## 🛒 Features
