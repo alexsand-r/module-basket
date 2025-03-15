@@ -1,6 +1,6 @@
 # Module Basket
 <p align="center">
-  <img src="img/Screenshot_11.png" alt="Image 1" width="1000" height="500">
+  <img src="img/Screenshot_11.png" alt="Image 1" width="1000" height="400">
  
 </p>
 
