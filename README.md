@@ -29,5 +29,6 @@ This project was created using **Vite** and implements a simple page for working
 - **CSS**: For styling the page and ensuring a responsive design.
 - **JavaScript**: For interactive functionalities like updating cart quantity and filtering products.
 
-
+📫 Contact Me:
+1inboxna@gmail.com
 
