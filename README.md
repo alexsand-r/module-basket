@@ -15,12 +15,7 @@ This project was created using **Vite** and implements a simple page for working
 - **Changing Product Quantity**: Users can adjust the quantity of a product in the cart using the "+" and "-" buttons. The total quantity and price are updated automatically.
 - **Product Filtering**: A search feature allows users to filter products by name. Only products matching the search query are displayed.
 
-## ⚙️ Project Structure
 
-- **assets/** — Contains static files like images, styles, and scripts.
-- **index.html** — The main HTML file that loads the page.
-- **index-vRQGDtOe.css** — Compiled CSS file for styling.
-- **index-CKGLBPFS.js** — Compiled JS file for functionality.
 
 ## 🔧 Technologies Used
 
